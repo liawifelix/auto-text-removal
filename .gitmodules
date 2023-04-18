@@ -1,0 +1,6 @@
+[submodule "CRAFT-pytorch"]
+	path = CRAFT-pytorch
+	url = https://github.com/clovaai/CRAFT-pytorch.git
+[submodule "lama"]
+	path = lama
+	url = https://github.com/advimman/lama.git
