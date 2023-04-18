@@ -1,5 +1,5 @@
 # Auto Text Removal
-Auto text removal using CRAFT to detect the text and LaMa Cleaner to remove the text. Highly motivated by [`auto-lama`](https://github.com/andy971022/auto-lama) which do object detection + LaMa.
+Auto text removal using CRAFT to detect the text and LaMa to remove the text. Highly motivated by [`auto-lama`](https://github.com/andy971022/auto-lama) which do object detection + LaMa.
 
 ## Implementation pipeline
 ![pipeline](./assets/image_1.png)
@@ -30,6 +30,9 @@ After
 
 ## Note
 I do a little modification to [`CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch) original code to fit my usage requirement.
+
+## Contributor
+Anyone who want to help is welcomed :D. Just open an issue or a PR.
 
 ## Acknowledgements
 - [`CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch) for text detection
