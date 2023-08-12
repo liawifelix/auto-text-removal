@@ -37,3 +37,6 @@ Anyone who want to help is welcomed :D. Just open an issue or a PR.
 ## Acknowledgements
 - [`CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch) for text detection
 - [`LaMa`](https://github.com/advimman/lama) for object(text) removal
+
+## License
+I am not really clear about the license I should use for this repo. https://github.com/advimman/lama use Apache-2.0 license while https://github.com/clovaai/CRAFT-pytorch use MIT license. Feel free to open an issue if you think the license that I use (MIT license) to label this repo is incorrect. 
